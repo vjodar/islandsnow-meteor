@@ -1,0 +1,15 @@
+.topmenu {
+  background-color: #f0f0f0;
+}
+
+.island-background {
+  background-color: #292929;
+  color: whitesmoke;
+  height: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.background {
+  background-color: #292929 !important;
+}
